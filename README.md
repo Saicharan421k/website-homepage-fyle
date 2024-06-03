@@ -1,4 +1,5 @@
 **Web developer assignment**
+
 1.to create and host a small website's homepage
 
 2.The preferred tech stack is bootstrap, Javascript + Jquery, Plain CSS for this assignment.
@@ -8,7 +9,7 @@
 
 User Interactions
 - saving the data form the forms
-- 
+  
 ### Submissions of the form:
 
 - Create a free account in [getform.io](http://getform.io/)
